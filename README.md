@@ -1,6 +1,6 @@
 ## NAME : SRI HARI KRISHNA D T
 ## REG NO : 24900669
-## FULL_ADDER_SUBTRACTOR
+## EX 4 :FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
