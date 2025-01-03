@@ -2,7 +2,7 @@
 ## REG NO : 24900669
 ## EX 4 :FULL ADDER SUBTRACTOR
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+Implementation of Full Adder and Full subtractor circuit
 
 ## AIM:
 
